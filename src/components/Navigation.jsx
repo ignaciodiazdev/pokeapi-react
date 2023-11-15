@@ -40,7 +40,7 @@ export const Navigation = () => {
             />
           </div>
 
-          <button className="btn-search">Buscar {numero}</button>
+          <button className="btn-search">Buscar</button>
         </form>
       </header>
 
